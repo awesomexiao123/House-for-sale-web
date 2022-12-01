@@ -1,0 +1,60 @@
+.formHeading {
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 2%;
+}
+.Name, .Email, .textArea {
+    border: 1px solid black;
+    min-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 2%;
+}
+.name, .email, .textArea {
+    border: 1px solid black;
+    min-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 2%;
+}
+.textArea {
+    padding-right: 0;
+    padding-left: 0;
+    padding-bottom: 100px;
+}
+ .textArea {
+    border: 1px solid black;
+    min-width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 2%;
+}
+.submitButton {
+    margin-right: 15%;
+    margin-left: 15%;
+    min-width: 70%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #b872ae;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(184, 114, 174);
+}
+.submitButton span {
+    color: whitesmoke;
+    border-bottom: 1.5px solid whitesmoke;
+    font-size: 1.5rem;
+}
